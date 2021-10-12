@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm zame97 👋
 
-<!--
-**zame97/zame97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student, developer, actor and social volunteer!
 
-Here are some ideas to get you started:
+- 🔭 Here is my personal website (not currently online) [amedeozanotto.com](https://amedeozanotto.com)
+- 🌱 I’m currently studying Computer Science at [Università Del Piemonte Orientale](https://uniupo.it)
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love playing in theatre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![zame97's GitHub stats](https://github-readme-stats.vercel.app/api?username=zame97&show_icons=true&theme=solarized-light)](https://github.com/zame97)
+
+
+
+
